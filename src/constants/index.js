@@ -52,26 +52,26 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Conhecimento e comprometimento norteiam a reefsys, tive a visualização melhor da minha empresa com ajuda do software",
-    name: "Tharsis Soares",
-    title: "CEO & Caramelo Web",
+    name: "José Soares",
+    title: "BPO Finance",
     img: people02,
   },
   {
     id: "feedback-2",
     content:
       "Foco em resultados faz com que o desenvolvimento seja eficiente e vantajoso",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+    name: "Ingrid Sales",
+    title: "UI/UX Design",
     img: people03,
   },
-  {
-    id: "feedback-3",
-    content:
-      "Ótmo conhecimento de mercado e muita paciencia em explicar bem detalhadamante todas as etapas do processo",
-    name: "Chen Gwan",
-    title: "Founder & Leader",
-    img: people01,
-  },
+  // {
+  //   id: "feedback-3",
+  //   content:
+  //     "Ótmo conhecimento de mercado e muita paciencia em explicar bem detalhadamante todas as etapas do processo",
+  //   name: "Rose Sales",
+  //   title: "",
+  //   img: people01,
+  // },
 ];
 
 export const stats = [
