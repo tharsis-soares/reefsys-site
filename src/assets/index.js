@@ -29,8 +29,10 @@ import logo99 from './reefsys.png'
 import reef from './reef.png'
 import reefnew from './reefnew.png'
 import testenew from './teste-new.png'
+import banner from './radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.jpg'
 
 export {
+  banner,
   reefnew,
   testenew,
   reef2,

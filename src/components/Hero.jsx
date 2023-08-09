@@ -25,11 +25,11 @@ const Hero = () => {
         <div
           className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}
         >
-          <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
+          <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2 mt-1 sm:mt-10">
             <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
             <p className={`${styles.paragraph} ml-2`}>
-              <span className="text-white">30%</span> desconto no{" "}
-              <span className="text-white">plano de 1 ano</span>
+              <span className="text-white text-[14px]">30%</span> desconto no{" "}
+              <span className="text-white text-[14px]">plano de 1 ano</span>
             </p>
           </div>
 
@@ -44,12 +44,11 @@ const Hero = () => {
             </div>
           </div>
 
-          <h1 className="font-poppins font-semibold ss:text-[68px] text-[28px] text-white ss:leading-[100.8px] leading-[75px] w-full">
+          <h1 className="font-poppins font-semibold ss:text-[68px] text-[30px] text-white ss:leading-[100.8px] leading-[75px] w-full">
             Aplicações Web
           </h1>
-          <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-            Nosso time sabe muito! temos que escrever uma coisa bem legal aqui.
-            Bem legal, vamos descrever algumas coisas
+          <p className={`${styles.paragraph} text-[18px] max-w-[470px] mt-4`}>
+          Na Reefsys, abraçamos a vanguarda da tecnologia web. Nesta seção, explore como nossa abordagem inovadora está moldando o futuro digital. Descubra como nossas soluções utilizam tecnologias web de ponta para criar experiências envolventes e funcionais que impulsionam os negócios para o sucesso no cenário em constante mudança."
           </p>
         </div>
 
